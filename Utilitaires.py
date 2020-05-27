@@ -5,7 +5,7 @@ __Creationdate__ = '27/05/2020'
 import numpy as np
 import random as rd
 import matplotlib.pyplot as plt
-import Application_gel_final as AG
+import Grid_gel as AG
 
 def comparaison_phy_num_bis(n_test, liasons_A2):
 
